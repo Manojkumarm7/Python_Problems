@@ -1,0 +1,48 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E501" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N812" />
+          <option value="N806" />
+          <option value="N803" />
+          <option value="N801" />
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="qa.libs.scorertest.debug" />
+          <option value="tests.test_Login.TestSearch.driver" />
+          <option value="tests.test_Register.TestRegister.driver" />
+          <option value="tests.test_Search.TestSearch.driver" />
+          <option value="pages.home_page.HomePage.click_on_element" />
+          <option value="tests.test_edge_ui_sdk_add_rdb.TestEdgeUiAddRDB.driver" />
+          <option value="pages.home_page.HomePage.Relational_DataBase" />
+          <option value="qa.testcases.edge_ui.test_edge_ui_sdk_add_rdb.TestEdgeUiAddRDB.driver" />
+          <option value="chromedriver_autoinstaller" />
+          <option value="unitTesting.socket" />
+          <option value="LearnPython.Basics.lower_case_count" />
+          <option value="LearnPython.Basics.count" />
+          <option value="list.__getitem__" />
+          <option value="LearnPython.Basics.game_2.clear" />
+          <option value="int.text" />
+          <option value="qa.testcases.edge_ui.edge_ui_add_sdk_rdb_test.SdkRDB._edge_util" />
+          <option value="qa.testparams.edge_ui.experiment.YourTestClass.assertEqual" />
+          <option value="qa.testcases.edge_ui.edge_ui_add_sdk_rdb_test.COUNT" />
+          <option value="qa.testcases.edge_ui.edge_ui_add_sdk_rdb_test.SdkRDB.driver" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
